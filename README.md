@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarthMenPL
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on <empty>.
 - 📫 How to reach me darthmengamer21@gmail.com
 
